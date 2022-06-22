@@ -1,7 +1,16 @@
 ## About me
 
-- I'm [тars👨‍🚀](https://tars0x9752.com/), just call me tars. (or whatever you want😜)
-- Feel free to check out [my website](https://tars0x9752.com/). (lang-ja)
+はろー
+
+Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Technically, I was born and grew up in Japan. (...or I'd love to say grew up on _**THE INTERNET**_.)
+
+Mother tongue: Japanese
+
+### Links
+
+- Gemini Capsule(gemlog): `gemini://tars.flounder.online/`
+- [A blog that's almost abandoned but still going on.](https://tars0x9752.com/)
+- [An old blog that's absolutely abandoned.](https://tars-log.netlify.app/)
 
 ### 📪 How to reach me:
 
