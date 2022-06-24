@@ -4,7 +4,9 @@
 
 Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Technically, I was born and grew up in Japan. (...or I'd love to say grew up on _**THE INTERNET**_.)
 
-Mother tongue: Japanese
+- `USER=tars`
+- `LANG=ja_JP.UTF-8`
+- `TZ=Asia/Tokyo`
 
 ### Links
 
