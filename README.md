@@ -2,7 +2,7 @@
 
 はろー
 
-Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Technically, I was born and grew up in Japan. (...or I'd love to say grew up on _**THE INTERNET**_.)
+Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. I'd like to say he lives on the Internet, but technically his physical body is supposed to be living in Japan.
 
 - `USER=tars`
 - `LANG=ja_JP.UTF-8`
@@ -10,9 +10,9 @@ Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Tech
 
 ### Links
 
-- Gemini Capsule(gemlog): `gemini://tars.flounder.online/`
-- [A blog that's almost abandoned but still going on.](https://tars0x9752.com/)
-- [An old blog that's absolutely abandoned.](https://tars-log.netlify.app/)
+- [Gemini Capsule(Gemlog)](gemini://tars.flounder.online/): `gemini://tars.flounder.online/`
+- [Blog](https://tars0x9752.com/)
+- [An absolutely abandoned old blog](https://tars-log.netlify.app/)
 
 ### 📪 How to reach me:
 
