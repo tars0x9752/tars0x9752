@@ -10,7 +10,7 @@ Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. I'd 
 
 ### Links
 
-- [Gemini Capsule(Gemlog)](gemini://tars.flounder.online/): `gemini://tars.flounder.online/`
+- Gemini Capsule(Gemlog): `gemini://tars.flounder.online/`
 - [Blog](https://tars0x9752.com/)
 - [An absolutely abandoned old blog](https://tars-log.netlify.app/)
 
